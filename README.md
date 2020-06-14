@@ -17,3 +17,6 @@ Perintah keyboard yang dapat diberikan pada program ini adalah:
 - y : memutar objek secara horizontal
 - z : memutar objek secara vertikal ke samping
 
+Kita juga dapat mengubah arah pencahayaan dengan menekan tombol kiri mouse lalu ditahan dan digeserkan ke kiri maupun ke kanan agar arah
+pencahayaan berubah
+
