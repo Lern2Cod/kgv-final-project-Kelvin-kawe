@@ -20,3 +20,4 @@ Perintah keyboard yang dapat diberikan pada program ini adalah:
 Kita juga dapat mengubah arah pencahayaan dengan menekan tombol kiri mouse lalu ditahan dan digeserkan ke kiri maupun ke kanan agar arah
 pencahayaan berubah
 
+![](https://i.ibb.co/dKPw0rq/IMG-20200614-WA0031.jpg)
